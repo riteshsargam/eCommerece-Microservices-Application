@@ -1,6 +1,8 @@
 # E-commerce Microservices Application
 
-[![Watch the video](https://img.youtube.com/vi/AnW1tMYEoMI/0.jpg)](https://youtu.be/AnW1tMYEoMI?si=xP8rw3YgUBNIl9ly)
+## 🎥 Project Walkthrough Video
+
+[![Watch the video](https://img.youtube.com/vi/AnW1tMYEoMI/hqdefault.jpg)](https://www.youtube.com/watch?v=AnW1tMYEoMI "E-commerce Microservices Application - Watch on YouTube")
 
 Welcome to the E-commerce Microservices Application! This project represents a comprehensive journey into building a modern eCommerce application using microservices architecture. Discover the wide range of skills and technologies I mastered through its development.
 
